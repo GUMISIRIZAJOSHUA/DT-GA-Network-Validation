@@ -1,0 +1,20 @@
+Multiple Comparison of Means - Tukey HSD, FWER=0.05
+===============================================
+group1 group2 meandiff p-adj lower upper reject
+-----------------------------------------------
+   5.0   10.0     -3.0   nan   nan   nan  False
+   5.0   20.0    -18.0   nan   nan   nan  False
+   5.0   30.0    -32.0   nan   nan   nan  False
+   5.0   40.0    -45.0   nan   nan   nan  False
+   5.0   50.0    -45.0   nan   nan   nan  False
+  10.0   20.0    -15.0   nan   nan   nan  False
+  10.0   30.0    -29.0   nan   nan   nan  False
+  10.0   40.0    -42.0   nan   nan   nan  False
+  10.0   50.0    -42.0   nan   nan   nan  False
+  20.0   30.0    -14.0   nan   nan   nan  False
+  20.0   40.0    -27.0   nan   nan   nan  False
+  20.0   50.0    -27.0   nan   nan   nan  False
+  30.0   40.0    -13.0   nan   nan   nan  False
+  30.0   50.0    -13.0   nan   nan   nan  False
+  40.0   50.0      0.0   nan   nan   nan  False
+-----------------------------------------------

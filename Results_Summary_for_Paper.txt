@@ -1,0 +1,21 @@
+
+
+The network performance was evaluated under seven packet loss
+conditions ranging from 0% to 50%. The baseline scenario achieved
+100% packet delivery, while increasing packet loss progressively
+reduced communication reliability.
+
+Packet Delivery Ratio decreased from 100.0%
+at 0% loss to 52.0% at 50% loss, demonstrating
+the dominant influence of packet loss on network reliability.
+
+Latency remained relatively stable under moderate degradation.
+The mean RTT varied between 0.2644 ms and
+0.3609 ms. However, severe packet loss
+caused increased latency variation and deterioration of tail
+performance.
+
+The maximum P95 RTT reached 0.7209 ms,
+indicating significant delay instability under extreme packet loss
+conditions.
+

@@ -1,0 +1,8 @@
+Parameter,Value
+Experiment scenarios,S0-S6
+Packet loss range,0-50%
+Packets per scenario,100 packets
+Number of repetitions,10 independent runs
+Evaluation metrics,"PDR, RTT, P95 RTT"
+Measured parameters,Reliability and latency
+Experimental platform,Linux network emulation environment
