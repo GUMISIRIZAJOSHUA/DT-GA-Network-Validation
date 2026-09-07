@@ -1,37 +1,30 @@
-# DT–GA Network Validation Framework
+# DT-GA Network Validation Framework
 
 ## Overview
 
-This repository provides the experimental framework and validation results for a **Digital Twin Assisted Genetic Algorithm (DT–GA)** based network optimization approach.
+This repository provides the experimental framework, implementation code, and validation results for a **Digital Twin Assisted Genetic Algorithm (DT-GA)** based network optimization approach.
 
-The framework evaluates network performance under controlled packet-loss conditions and investigates the impact of communication degradation on key performance indicators, including:
+The framework evaluates communication network performance under different packet-loss conditions and quantifies the impact of network degradation using key performance indicators:
 
 - Packet Delivery Ratio (PDR)
 - Round Trip Time (RTT)
-- Latency variation
-- Statistical performance characteristics
+- P95 RTT
+- RTT variation and statistical characteristics
 
-The repository contains the complete experimental workflow, including simulation scripts, analysis codes, statistical evaluation procedures, publication-ready figures, and generated tables supporting reproducible analysis.
+The repository contains the complete reproducible workflow, including experiment scripts, analysis programs, statistical evaluation modules, publication-ready figures, and generated tables.
 
 ---
 
 # Research Workflow
 
-The validation workflow consists of the following stages:
+The validation pipeline consists of the following stages:
 
-The repository provides the implementation scripts, analysis workflow, generated figures and tables, and representative experimental outputs used for validation.
-
-1. Network experiment configuration
-
-2. DT–GA communication validation process
-
-3. Controlled network impairment generation
-
-4. Communication performance evaluation
-
-5. Statistical analysis and visualization
-
-6. Generation of publication-ready tables and figures
+1. Digital Twin server initialization
+2. Genetic Algorithm client execution
+3. Network degradation simulation
+4. Performance data collection
+5. Statistical analysis
+6. Publication figure and table generation
 
 ---
 
